@@ -1,0 +1,7 @@
+
+if SHIELD_Sofle
+
+config ZMK_KEYBOARD_NAME
+    default "Sofle"
+
+endif

@@ -1,0 +1,8 @@
+file_format: "1"
+id: Sofle
+name: Sofle
+type: shield
+url: https://github.com/nkd059/Sofle_v2
+requires: [pro_micro]
+features:
+  - keys

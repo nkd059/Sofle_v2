@@ -1,0 +1,2 @@
+config SHIELD_Sofle
+    def_bool $(shields_list_contains,Sofle)
