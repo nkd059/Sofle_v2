@@ -1,7 +1,7 @@
 
-if SHIELD_Sofle
+if SHIELD_sofle
 
 config ZMK_KEYBOARD_NAME
-    default "Sofle"
+    default "sofle"
 
 endif
