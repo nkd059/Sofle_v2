@@ -1,7 +1,7 @@
 ---
 include:
   - board: nice_nano//zmk
-    shield: Sofle
+    shield: sofle
 
   - board: nice_nano//zmk
     shield: settings_reset
